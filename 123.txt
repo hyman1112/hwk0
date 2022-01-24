@@ -1,0 +1,4 @@
+cd desktop 資料夾名稱 //進入資料夾
+git add --all
+git commit
+git push
